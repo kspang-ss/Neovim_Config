@@ -1,0 +1,5 @@
+require("kspang.options")
+require("kspang.remap")
+require("kspang.packer")
+require("autoclose").setup()
+require("kspang.luasnip")
