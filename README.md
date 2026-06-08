@@ -7,9 +7,9 @@ Useage:
 - Run :PackerSync
 
 Remaps:
-<leasder>f to open file viewer
-<leader>g to use telescope
-<C-K> to exucute snippet (see lua/kspang/luasnip.lua for keywords)
-<C-L> and <C-J> to cycle through snippet input 
+- \<leasder\>f to open file viewer
+- \<leader\>g to use telescope
+- \<C-K\> to exucute snippet (see lua/kspang/luasnip.lua for keywords)
+- \<C-L\> and \<C-J\> to cycle through snippet input 
 
 It's a work in progress.
